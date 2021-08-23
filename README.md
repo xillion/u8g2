@@ -27,6 +27,10 @@
 | 17 | RES  | reset  |
 | 18 | CS  | crystal select 0-right, 1-left  |
 
+MT-12232A based on sed1520 or sbn1661 compatible controller with some difference
+
+![Internal CS pin connection](./fig1.png)
+
 U8g2: Library for monochrome displays, version 2
 
 U8g2 is a monochrome graphics library for embedded devices. 
