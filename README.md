@@ -25,7 +25,7 @@
 | 15 | LED+  |   |
 | 16 | LED-  |   |
 | 17 | RES  | reset  |
-| 18 | CS  | cristal select 0-right, 1-left  |
+| 18 | CS  | crystal select 0-right, 1-left  |
 
 U8g2: Library for monochrome displays, version 2
 
