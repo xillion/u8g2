@@ -2,6 +2,30 @@
 
 ![https://raw.githubusercontent.com/wiki/olikraus/u8g2/ref/u8g2_logo_transparent_orange.png](https://raw.githubusercontent.com/wiki/olikraus/u8g2/ref/u8g2_logo_transparent_orange.png) 
 
+![https://static.chipdip.ru/lib/790/DOC000790436.jpg](https://static.chipdip.ru/lib/790/DOC000790436.jpg) 
+
+# **Porting u8g2 to MT-12232A, LCD 122х32, with backlight**
+
+| Pin Number  | Pin Name  | Description  |
+|---|---|---|
+| 1 | DB4 | DATA BUS  |
+| 2 | DB5 | DATA BUS  |
+| 3 | DB6 | DATA BUS  |
+| 4 | DB7 | DATA BUS  |
+| 5 | A0 | Data/Command  |
+| 6 | R/W | Read/Write  |
+| 7 | E | Strobe  |
+| 8 | DB3 | DATA BUS  |
+| 9 | DB2 | DATA BUS  |
+| 10 | DB1 | DATA BUS  |
+| 11 | DB0 | DATA BUS  |
+| 12 | GND | Ground  |
+| 13 | NC |   |
+| 14 | Vcc | Power  |
+| 15 | LED+  |   |
+| 16 | LED-  |   |
+| 17 | RES  | reset  |
+| 18 | CS  | cristal select 0-right, 1-left  |
 
 U8g2: Library for monochrome displays, version 2
 
